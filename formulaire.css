@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+
+img{
+    width: 100%;
+    display: inline-block;
+    margin-bottom: -750px;
+    height: 920px;
+}
+
+.form{
+    
+    background-color: white;
+    display: inline-block;
+    width: 80%;
+    margin-left: 7%;
+    height: 500px;
+    padding: 40px;
+    border-radius: 7%;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    color: #043462;
+}
+
+
